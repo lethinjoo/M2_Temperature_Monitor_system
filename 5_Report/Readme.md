@@ -1,4 +1,4 @@
-# Requirements
+# Temperture Monitor System
 
 ## Introduction
 Now a days everyone is looking for automation and advancements in all the sectors. The Vehicle Seat Heat Monitoring System is capable of maintaining of heat in the vehicles seats.
@@ -43,6 +43,8 @@ Temperature_Monitor_System
 Used in Automotive Industries
 ### **WHEN** :
 At low Temperature area
+### **HOW** :
+System will sense the input and output
 
 ## Detail requirements
 ### High Level Requirements
