@@ -1,19 +1,19 @@
-name: Cppcheck
-
+name: Cpp-Check
 on:
+
   push:
     branches: [ main ]
   pull_request:
     branches: [ main ]
-
+  workflow_dispatch:
 jobs:
   build:
-
     runs-on: windows-latest
-
     steps:
-    - uses: actions/checkout@v2
-    - name: get_cppcheck
-      run: sudo apt-get install cppcheck
-    - name: Code Quality
-      run: make -C 3_Implementation
+      - uses: actions/checkout@v2
+      - name: Run a one-line script
+        run: echo Hello, world!
+      - name: Run a multi-line script
+        run: |
+          echo Add other actions to build,
+          echo test, and deploy your project.
