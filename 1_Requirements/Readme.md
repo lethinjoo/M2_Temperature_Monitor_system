@@ -27,6 +27,8 @@ In my project, the sensor will sense is the driver has been seated or not and if
 - Not suitable for average or high temperature places.
 
 ## 4W's and 1'H
+### **WHY** :
+This code/simulation is user-friendly
 ### **WHAT** :
 Temperature_Monitor_System
 ### **WHERE** :
