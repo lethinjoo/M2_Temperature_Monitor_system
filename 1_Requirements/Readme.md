@@ -27,9 +27,12 @@ In my project, the sensor will sense is the driver has been seated or not and if
 - Not suitable for average or high temperature places.
 
 ## 4W's and 1'H
-### **WHAT** : STEPin_Seat_Temperature_Monitoring_System
-### **WHERE** : Used in Automotive Industries
-### **WHEN** : At low Temperature
+### **WHAT** :
+Temperature_Monitor_System
+### **WHERE** :
+Used in Automotive Industries
+### **WHEN** :
+At low Temperature area
 
 ## Detail requirements
 ### High Level Requirements
