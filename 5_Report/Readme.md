@@ -2,7 +2,24 @@
 
 ## Introduction
 Now a days everyone is looking for automation and advancements in all the sectors. The Vehicle Seat Heat Monitoring System is capable of maintaining of heat in the vehicles seats.
-In my project, the sensor will sense is the driver has been seated or not and if the driver seated then he need to set the temperature accordingly. Based on that our controller will set the heater to required temperature. The Heater will generate the heat and a LCD display will show requested the temperature. In my project I have used ATmega328 microcontroller along with temperature sensor, Push button, Heat generator, LED and LCD diplay,etc.
+In my project, the sensor will sense is the driver has been seated or not and if the driver seated then he need to set the temperature accordingly. Based on that our controller will set the heater to required temperature. The Heater will generate the heat and a LCD display will show requested the temperature.
+
+## Components
+-   ATmega328 microcontroller along with temperature sensor,
+-   Push button,
+-   Heat generator,
+-   LED and LCD diplay,etc.
+
+## Atmega328
+The ATmega328 is a single-chip microcontroller created by Atmel in the megaAVR family (later Microchip Technology acquired Atmel in 2016). It has a modified Harvard architecture 8-bit RISC processor core
+
+ATmega328 is commonly used in many projects and autonomous systems where a simple, low-powered, low-cost micro-controller is needed. Perhaps the most common implementation of this chip is on the popular Arduino development platform, namely the Arduino Uno, Arduino Pro Mini[4] and Arduino Nano models.
+
+## Push Button
+A push button switch controls an action in a machine or other type of process. They are common features within the home and workplace, and are also referred to as pushbutton switches or push switches.
+
+## Display
+This LED & LCD display shows the output digitally
 
 ## Features
 -   The System will sense is driver or passenger seated or not.
